@@ -1,8 +1,6 @@
 # ⚡ ContraDoc AI
 ### Multi-document Contradiction Finder using RAG
 
-> "Don't just answer questions — find where your sources disagree."
-
 # What it does
 Upload multiple PDFs and ask a question. ContraDoc AI finds 
 where documents **contradict each other** using RAG pipeline.
