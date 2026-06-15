@@ -26,6 +26,5 @@ streamlit run ui/streamlit_app.py
 ```
 
 # Use Cases
-- Legal document analysis
-- Medical research comparison  
-- Academic paper contradiction detection
+-  document analysis
+-  contradiction detection
